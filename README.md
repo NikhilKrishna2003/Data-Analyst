@@ -17,4 +17,8 @@ Airline KPI's
 4. Identify Top 10 Carrier Names based passengers preference <br/>
 5. Display top Routes ( from-to City) based on Number of Flights <br/>
 6. Identify the how much load factor is occupied on Weekend vs Weekdays.<br/>
-7. Identify number of flights based on Distance group<br/>
+7. Identify number of flights based on Distance group<br/><br/>
+
+Excel Dashboard<br/><br/>
+
+https://github.com/NikhilKrishna2003/Data-Analyst/blob/main/Excel.png

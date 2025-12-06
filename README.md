@@ -1,6 +1,4 @@
-# ✈️ Airline Analytics – Excel Dashboard
-
-![Dashboard](https://raw.githubusercontent.com/NikhilKrishna2003/Data-Analyst/main/Excel.png)
+# ✈️ Airline Analytics-
 
 ## 📘 Project Overview
 This dashboard analyzes key airline performance metrics such as Load Factor, Carrier Preference, Route Performance, and Date-based trends.

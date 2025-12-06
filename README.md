@@ -1,24 +1,66 @@
-# Data-Analyst
+# ✈️ Airline Analytics – Excel Dashboard
 
-Airline KPI's
+![Dashboard](https://raw.githubusercontent.com/NikhilKrishna2003/Data-Analyst/main/Excel.png)
 
-"1.calcuate the following fields from the Year	Month (#)	Day  fields ( First Create a Date Field from Year , Month , Day fields)"<br/>
-   A.Year<br/>
-   B.Monthno<br/>
-   C.Monthfullname<br/>
-   D.Quarter(Q1,Q2,Q3,Q4)<br/>
-   E. YearMonth ( YYYY-MMM)<br/>
-   F. Weekdayno<br/>
-   G.Weekdayname<br/>
-   H.FinancialMOnth<br/>
-   I. Financial Quarter <br/>
-2. Find the load Factor percentage on a yearly , Quarterly , Monthly basis ( Transported passengers / Available seats)<br/>
-3. Find the load Factor percentage on a Carrier Name basis ( Transported passengers / Available seats)<br/>
-4. Identify Top 10 Carrier Names based passengers preference <br/>
-5. Display top Routes ( from-to City) based on Number of Flights <br/>
-6. Identify the how much load factor is occupied on Weekend vs Weekdays.<br/>
-7. Identify number of flights based on Distance group<br/><br/>
+## 📘 Project Overview
+This dashboard analyzes key airline performance metrics such as Load Factor, Carrier Preference, Route Performance, and Date-based trends.
 
-Excel Dashboard<br/><br/>
+---
 
-<img src="https://github.com/NikhilKrishna2003/Data-Analyst/blob/main/Excel.png">
+## ✅ Requirements / Tasks Performed
+
+### **1. Create Date-Based Fields**
+From **Year, Month, Day**, generate:
+- Year  
+- Month Number  
+- Month Full Name  
+- Quarter (Q1–Q4)  
+- YearMonth (YYYY-MMM)  
+- Weekday Number  
+- Weekday Name  
+- Financial Month  
+- Financial Quarter  
+
+---
+
+### **2. Load Factor % (Yearly, Quarterly, Monthly)**
+
+---
+
+### **3. Load Factor % by Carrier Name**
+
+---
+
+### **4. Top 10 Carrier Names**
+---
+
+### **5. Top Routes (From–To City)**
+
+---
+
+### **6. Weekend vs Weekday Load Factor**
+
+---
+
+### **7. Flights by Distance Group**
+
+---
+### **Excel Dashboard**
+
+![](https://raw.githubusercontent.com/NikhilKrishna2003/Data-Analyst/main/Excel.png)
+
+---
+## ⭐ Dashboard Shows
+- Load Factor KPIs  
+- Trend charts  
+- Carrier comparison  
+- Route performance  
+- Distance-based analysis  
+- Weekend vs weekday insights  
+
+---
+
+## 📄 Summary
+This Excel project demonstrates airline KPI analysis using calculated fields, PivotTables, and dashboard visualization to provide actionable operational insights.
+
+---

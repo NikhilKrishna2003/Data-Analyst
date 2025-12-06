@@ -21,4 +21,4 @@ Airline KPI's
 
 Excel Dashboard<br/><br/>
 
-https://github.com/NikhilKrishna2003/Data-Analyst/blob/main/Excel.png
+<img src="https://github.com/NikhilKrishna2003/Data-Analyst/blob/main/Excel.png">

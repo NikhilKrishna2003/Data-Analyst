@@ -45,7 +45,7 @@ From **Year, Month, Day**, generate:
 ---
 ### **Excel Dashboard**
 
-![](https://raw.githubusercontent.com/NikhilKrishna2003/Data-Analyst/main/Excel.png)
+![](Images/Excel_dashboard.png)
 
 ---
 ## ⭐ Dashboard Shows

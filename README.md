@@ -47,6 +47,8 @@ From **Year, Month, Day**, generate:
 
 ![](Images/Excel_dashboard.png)
 
+### **Tableau Dashboard**
+![](Images/Tableau_dashboard.png)
 ---
 ## ⭐ Dashboard Shows
 - Load Factor KPIs  
